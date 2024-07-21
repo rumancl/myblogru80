@@ -1,4 +1,5 @@
 package com.myblog8.config;
+//bmgm
 
 import com.myblog8.security.CustomUserDetailsService;
 import org.springframework.beans.factory.annotation.Autowired;
